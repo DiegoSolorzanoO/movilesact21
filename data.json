@@ -1,0 +1,24 @@
+{
+    "friends": [
+        {
+            "name": "Paco",
+            "hobby": "Soccer"
+        },
+        {
+            "name": "Daniel",
+            "hobby": "Chess"
+        },
+        {
+            "name": "Andre",
+            "hobby": "Fishing"
+        },
+        {
+            "name": "Victor",
+            "hobby": "Videogames"
+        },
+        {
+            "name": "Javier",
+            "hobby": "Baseball"
+        }
+    ]
+}
